@@ -45,8 +45,7 @@ Attached video as seperate file in repo. Below are the some of the detetcions on
 ![vlcsnap-2023-01-13-19h48m54s744](https://user-images.githubusercontent.com/40944675/212341947-4dbb4ff1-b624-49da-a68b-62b77716eb5f.png)
 
 ### **Conclusion:**
-Based on the inference results, the trained model is doing a great job. We can still imrpove it by using large yolov8 models, additional data and hyperparameter changes. 
-
+Based on the inference results, the trained model is doing a great job. We can still imrpove it by using large yolov8 models, additional data and hyperparameter changes. Model file is also available for any type of testing.
 ### **References:**
 
 1.https://github.com/ultralytics/ultralytics
